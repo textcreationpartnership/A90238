@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oates new shams discovered: and how they carried it on from time to time sent in a letter to his Grace James Duke of Monmouth from Doctor Titus Oates.</title>
+            <author>Oates, Titus, 1649-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90238</idno>
+            <idno type="STC">Wing O62B</idno>
+            <idno type="STC">ESTC R231396</idno>
+            <idno type="EEBO-CITATION">99896815</idno>
+            <idno type="PROQUEST">99896815</idno>
+            <idno type="VID">137009</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90238)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137009)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2447:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Oates new shams discovered: and how they carried it on from time to time sent in a letter to his Grace James Duke of Monmouth from Doctor Titus Oates.</title>
+                  <author>Oates, Titus, 1649-1705.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for Absalon Chamberlain, in Red-bull play-house-yard over against the Pound in St. John-street; near Clerken-well-green,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James II, 1685-1688 --  Early works to 1800.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:137009:1" rendition="simple:additions"/>
+            <head>
+               <hi>Oates</hi> New Shams Diſcovered: And how they carried it on from Time to Time, Sent in a Letter to his Grace <hi>James</hi> Duke of <hi>Monmouth</hi> from Doctor <hi>Titus Oates.</hi>
+            </head>
+            <p>ABout ten years agone, this Kingdom I ſay, was got with Child, with a huge and horrible <hi>Popiſh-plot,</hi> it had neither Head nor Foot, but ſixty thouſand Rumps and Tails, and what d'ye call 'ems. Now Sir about five yeras agone—her Belly began to Gripe— ſhe made foul Faces and lookt very black in the Fundament, and fell into Labour with this Plot; and was very ill indeed, ſhe father'd the Plot upon the <hi>Jeſuits,</hi> and ſeveral other perſons of Quality—and ſeveral of the <hi>Papiſts</hi> where hang'd and cut in peices and the reſt Begger'd and Ruin'd, and all the able Men-Midwives in <hi>England</hi> were ſent for, to help to deliver her of this great Belly: Firſt that great ſtates Midwife, <hi>Shaftsbury</hi>—who took his turn for four years together, and at the laſtwith a full Reſolution to fetch it out, thruſt his hand a little too far, and broke a Leg or an Arm, and was forc'd to run away to ſave his Neck. Then was choſe a Counſel of ſix of the able ſtates Mid<g ref="char:EOLhyphen"/>wives in the Kingdom to try Experiments, amongſt whom the Lord <hi>Ruſſel</hi> ſcorning to be out done; fell to work Tooth and Nail; but being too hot upon't happens to lay hold on the Arſe gut and all beſhit his Fingers. Upon this misfortune he fell into a deſperate paſſion: and in revenge reſolved to cut his Majeſties Throat, but juſt in the attempt his own Head dropt off.</p>
+            <p>Next comes Midwife <hi>Gray,</hi> but having juſt left his two Wives behind the Curtain which were really Siſters, and he not being able to ſatsfie one, his Horns on a ſudden ſprouted out ſo much longer than his Arms, that they goar'd <hi>Brittain</hi> into the Belly before he could reach it, which put her into ſuch a Fit of Torture and Kicking, as frighted him out of his ſence and ſight of the World, that he was never ſeen ſince.</p>
+            <p>Then comes <hi>E—x</hi> with ſerious reſerved deliberate gravity: And as ſoon as he had felt how it was with her—he pretended to wiſh that the <hi>K.</hi> did but know half ſo much as he did, but feeling the ſecond time—ſhe un<g ref="char:EOLhyphen"/>mannerly ſlapt her Tail in his Eye, and piſt in his Face—which cauſed ſome of the Deputy Midwives to laugh at him; which put the Earl into ſuch a paſſion, that he ſwore the K. had a hand in it—for which and other Crimes he was clapt up; and in revenge he played the fool and cut his own Throat.</p>
+            <p>Then comes thundering <hi>Tickle me Tom,</hi> and he was ſo fooliſh Raſh he'd needs father the Pug before it was Born; he was ſo in love with the Baſtard that he attempted to out of the Royal Line to make a King on't: which made <hi>Brittain</hi> up with her heel and hit him a dab o'th the Chops and farted in his Face, Gad, what does he do for madneſs, but transforms himſelf into the Spawn of a Makrel and was never heard of ſince.</p>
+            <p>Next comes Perking <hi>Teckely</hi>—though a Baſtard he had an undoubted Right to the Imperial Crown of <hi>England,</hi> he laid both his Commiſſions, Life, and his expected Crown, that he'd fetch it out the firſt attempt without difficulty. Then he falls to work, Sir, upon the Brat, and got by the back with both hands at once—and pull'd it with ſuch an undanted Courage that five hundred Rumps and Tails come off in his hands—and he loſt his hold, which ſo inflam'd his Grace, that he turn'd up her Tail, and ſhewed her Nakedneſs to forty thouſand of the Rabble—which made <hi>Brittain</hi> pull him
+<pb facs="tcp:137009:2" rendition="simple:additions"/>
+by the Lugs—and wrapt a Ladys ſhitten Smock about his Chops and Eyes and ſent his Addle-head, Reeling Blindfold from the Land of <hi>Promiſe</hi> to <hi>Wap<g ref="char:EOLhyphen"/>ping;</hi> where the other Siſter wip'd his Chops—and he ſputtered and Hector'd about and threatned Revenge for a while; at laſt was loſt in a Miſt; like <hi>Aenvas,</hi> for ingratitude and never was heard of ſince—a great many more made the like attempt, with ſuch or worſe ſucceſs—and ſome hang'd, ſome in hold, ſome turn'd Trimmers and the reſt run away: for juſt in the interim when the <hi>K.</hi> was to have been Murthered comes me in—one <hi>Howard, Rumſey Weſt,</hi> and <hi>Keeling</hi>—and undertook to deliver this great Belly—and upon the word of a <hi>Prieſt,</hi> they handled it with ſuch Dexterity, that in a fort<g ref="char:EOLhyphen"/>nights time, they brought out this great Monſter—and what do you think it was that made all this noiſe-e'en honeſt <hi>Presbyter John</hi>—a Delicate Bade, but ſo ſtuft with' <hi>Soiciations,</hi> Noble <hi>Feer's Speech; Holy Leagues,</hi> and <hi>Covenants,</hi> &amp;c. that it was Farting full again: And being <hi>Incubus</hi> it ſpoke as ſoon as it was Born, and named above ſix-Hundred Fathers that were at the getting on't-<hi>Shaftsburys, Tongue,</hi> and my ſelf, three of the Chief-then drwing its Mouth on one ſide; Cry'd, You muſt all turn <hi>Turks</hi> or be damn'd and ever ſince I have had a great Ambition to leave off my Hypocritical Jump, and turn <hi>Muffty.</hi> But how do you think this <hi>Brat</hi> ſerved us at l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt; for all we have lick't it into five hundred ſhapes and colours nothing ſerves its turn but ſpeaking truth with a Pox to the <hi>Raſcal:</hi> and has ſpoiled all our fu<g ref="char:EOLhyphen"/>ture proceedings; and we have loſt the Charter into the bargain. But as for Popiſh Commiſſions, Spaniſh Pilgrims, Black Bills, French Armies, <hi>Pickerings</hi> Guns, <hi>Teuxbury</hi> Muſtard Balls, Popiſh plots <hi>&amp;c.</hi> I received rea<g ref="char:EOLhyphen"/>dy mony for them, both from Court and City at once: but now, not<g ref="char:EOLhyphen"/>withſtanding all my Gaurds, I was arreſted three or four times a week, and have neither Plot nor Commiſſion to make a penny on, to help my ſelf withal; and my <hi>Bums,</hi> like a company of Ravenous Wolves, are ready to tear my heart out. But for <hi>Weſts</hi> Blunderbuſs, <hi>Wilamans</hi> Cannon, moſt of them are viſibly taken and Seized by the K. Juſt now my ſacred perſon was ſeized for twenty pounds due for linnen, which I took up to wipe clean my Bum. To conclude Sir, unleſs our party can get to a head, before the K. calls a Parliament, all our Gang muſt of neceſſity flie to your Mighti<g ref="char:EOLhyphen"/>neſs for refuge—Therefore I beſeech you let the <hi>Sarraglio,</hi> be forthwith made ready for me and my Retinue—for Bums, I ſhall carry fourſcore a<g ref="char:EOLhyphen"/>long with me, for Whores and Baudes, let there be two thouſand made ready: for I intended to out do <hi>Solomon</hi> in <hi>Letchery, Mahomet</hi> in <hi>Blaſphmy,</hi> and <hi>Judas</hi> in <hi>Perjury</hi> and <hi>Treachery.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Abſalon Chamberlain,</hi> in <hi>Red-bull Play-houſe-yard</hi> o<g ref="char:EOLhyphen"/>ver againſt the Pound in St. <hi>John-ſtreet;</hi> near <hi>Clerken-well-green.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
